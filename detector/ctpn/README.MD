@@ -28,7 +28,3 @@ I propose two modes to inference. You can modify the infer mode in file ```test.
 ## Reference
 1. https://github.com/eragonruan/text-detection-ctpn
 2. https://github.com/zwenwang/CTPN_Pytorch
-
-
-## More details
-Pls visit my blog to get more details:https://www.cnblogs.com/skyfsm/p/10054386.html
