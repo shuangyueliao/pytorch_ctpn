@@ -5,6 +5,3 @@ A repository for OCR, which inlcudes some classical OCR algorithms implementatio
 support python3
 
 implement by pytorch
-
-Reference
-https://github.com/AstarLight/Lets_OCR
